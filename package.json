@@ -1,0 +1,17 @@
+{
+  "name": "techknow-dominator",
+  "version": "1.0.7",
+  "description": "Allows json representation of dom nodes for quick building, tearing down and saving.",
+  "main": "dominator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dom",
+    "builder",
+    "jquery",
+    "json"
+  ],
+  "author": "Dustin Schultz <dustinsan@lampstackninjas.com> (http://lampstack.ninja)",
+  "license": "ISC"
+}
